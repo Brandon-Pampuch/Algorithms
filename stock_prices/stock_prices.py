@@ -2,9 +2,6 @@
 
 import argparse
 
-max_gain = -2000
-max_loss = -2000
-
 
 def find_max_profit(prices):
 
